@@ -6,10 +6,19 @@
     <description>Recent content on chatiiはWebエンジニア</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 18 Feb 2019 11:41:09 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2019 15:25:18 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.chatii.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Circleci Deploy Test</title>
+      <link>https://blog.chatii.net/posts/circleci-deploy-test/</link>
+      <pubDate>Mon, 18 Feb 2019 15:25:18 +0900</pubDate>
+      
+      <guid>https://blog.chatii.net/posts/circleci-deploy-test/</guid>
+      <description>CircleCIを使ってデプロイが走るかテストします</description>
+    </item>
     
     <item>
       <title>My First Post</title>
