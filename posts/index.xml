@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chatiiはWebエンジニア</title>
-    <link>https://blog.chatii.net/</link>
-    <description>Recent content on chatiiはWebエンジニア</description>
+    <title>Posts on chatiiはWebエンジニア</title>
+    <link>https://blog.chatii.net/posts/</link>
+    <description>Recent content in Posts on chatiiはWebエンジニア</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 18 Feb 2019 11:41:09 +0900</lastBuildDate>
     
-	<atom:link href="https://blog.chatii.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.chatii.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
