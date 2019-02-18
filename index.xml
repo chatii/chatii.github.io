@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>chatiiはWebエンジニア</title>
+    <link>https://blog.chatii.net/</link>
+    <description>Recent content on chatiiはWebエンジニア</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
     <lastBuildDate>Mon, 18 Feb 2019 15:25:18 +0900</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.chatii.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Circleci Deploy Test</title>
-      <link>/posts/circleci-deploy-test/</link>
+      <link>https://blog.chatii.net/posts/circleci-deploy-test/</link>
       <pubDate>Mon, 18 Feb 2019 15:25:18 +0900</pubDate>
       
-      <guid>/posts/circleci-deploy-test/</guid>
+      <guid>https://blog.chatii.net/posts/circleci-deploy-test/</guid>
       <description> CircleCIを使ってデプロイが走るかテストします </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://blog.chatii.net/posts/my-first-post/</link>
       <pubDate>Mon, 18 Feb 2019 11:41:09 +0900</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://blog.chatii.net/posts/my-first-post/</guid>
       <description>Hugo を使ってブログを書いてみる Hugo + GitHub Pages の構成で、この記事は最初の投稿です。</description>
     </item>
     

@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/circleci-deploy-test/</loc>
+    <loc>https://blog.chatii.net/posts/circleci-deploy-test/</loc>
     <lastmod>2019-02-18T15:25:18+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://blog.chatii.net/posts/my-first-post/</loc>
     <lastmod>2019-02-18T11:41:09+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://blog.chatii.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chatii.net/posts/</loc>
     <lastmod>2019-02-18T15:25:18+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://blog.chatii.net/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://blog.chatii.net/</loc>
     <lastmod>2019-02-18T15:25:18+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
